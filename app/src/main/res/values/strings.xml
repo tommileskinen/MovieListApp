@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieListApp</string>
+    <string name="movieNameText">name</string>
+    <string name="movieGenreText">genre</string>
+    <string name="movieRatingText">rating</string>
+    <string name="movieReleasedText">released</string>
+    <string name="movieTypeText">type</string>
+    <string name="addMovieToListDescription">addMovieToList</string>
+    <string name="watchedCheckBox">Watched</string>
+    <string name="textProgress">Progress</string>
+    <string name="textNewList">New list</string>
+    <string name="textTitle">Title</string>
+    <string name="textSearch">Search</string>
+</resources>

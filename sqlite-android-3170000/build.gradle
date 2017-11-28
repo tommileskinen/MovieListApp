@@ -1,0 +1,5 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('sqlite-android-3170000.aar'))
+dependencies {
+
+}
